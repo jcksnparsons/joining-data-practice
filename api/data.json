@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "last_name": "Johnson",
+      "first_name": "Dwayne",
+      "departmentId": 1,
+      "computerId": 1,
+      "isExperienced": false
+    },
+    {
+      "id": 2,
+      "last_name": "Krafft",
+      "first_name": "Kurt",
+      "departmentId": 2,
+      "computerId": 2,
+      "isExperienced": false
+    },
+    {
+      "id": 3,
+      "last_name": "Hendrix",
+      "first_name": "Jimi",
+      "departmentId": 4,
+      "computerId": 3,
+      "isExperienced": true
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Sanitation"
+    },
+    {
+      "id": 2,
+      "name": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Department of Memory"
+    },
+    {
+      "id": 4,
+      "name": "Legion of Doom"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "manufacturer": "Apple",
+      "model": "MacBook Pro",
+      "year": 2013
+    },
+    {
+      "id": 2,
+      "manufacturer": "Asus",
+      "model": "CodeKing Pro",
+      "year": 2018
+    },
+    {
+      "id": 3,
+      "manufacturer": "IBM",
+      "model": "Deep Blue",
+      "year": 1989
+    }
+  ]
+}
